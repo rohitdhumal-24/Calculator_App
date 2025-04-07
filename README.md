@@ -55,10 +55,10 @@ Add your screenshots below this section to showcase the UI and functionality.
 ![Calculator Interface](Screenshot-3-1.png)
 
 ### 🧮 Calculation in Progress
-![Calculation](Screenshot-3-1.png)
+![Calculation](Screenshot-3-2.png)
 
 ### ✅ Result Display
-![Result](Screenshot-3-1.png)
+![Result](Screenshot-3-3.png)
 
 ---
 
