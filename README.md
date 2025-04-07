@@ -52,13 +52,13 @@ This application is a simple **React Calculator** that allows users to perform b
 Add your screenshots below this section to showcase the UI and functionality.
 
 ### 🖼️ Calculator Interface
-![Calculator Interface](./screenshots/calculator-interface.png)
+![Calculator Interface](Screenshots-3-1.png)
 
 ### 🧮 Calculation in Progress
-![Calculation](.screenshots/calculation.png)
+![Calculation](Screenshots-3-1.png)
 
 ### ✅ Result Display
-![Result](./screenshots/result.png)
+![Result](Screenshots-3-1.png)
 
 ---
 
@@ -92,6 +92,20 @@ Created with ❤️ using ReactJS.
 Special thanks to the open-source community for guidance and UI inspiration.
 
 ---
+
+## 🛠️ Built With
+
+- [React.js](https://reactjs.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+---
+
+## ✨ Author
+
+Made with ❤️ by **Rohit Dhumal**  
+🔗  [[LinkedIn](https://linkedIn.com/in/rohitdhumal24)](#) • [[GitHub](https://github.com/rohitdhumal-24)](#)
 
 ## 📄 License
 
