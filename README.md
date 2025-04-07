@@ -52,13 +52,13 @@ This application is a simple **React Calculator** that allows users to perform b
 Add your screenshots below this section to showcase the UI and functionality.
 
 ### 🖼️ Calculator Interface
-![Calculator Interface](Screenshots-3-1.png)
+![Calculator Interface](Screenshot-3-1.png)
 
 ### 🧮 Calculation in Progress
-![Calculation](Screenshots-3-1.png)
+![Calculation](Screenshot-3-1.png)
 
 ### ✅ Result Display
-![Result](Screenshots-3-1.png)
+![Result](Screenshot-3-1.png)
 
 ---
 
